@@ -1,0 +1,1 @@
+Curso "JavaScript: Interfaces e Herança em Orientação a Objetos" que realizei na Alura, cujo os objetivos eram aprofundar os conhecimentos em orientação a objetos e entender quando e como usar herança dentro dos projetos.
